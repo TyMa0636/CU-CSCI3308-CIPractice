@@ -1,4 +1,5 @@
 /*
+ * Tyler Mauer and Sam Pyeatt
  * geometry.c
  * Andy Sayler
  * CSCI 3308
